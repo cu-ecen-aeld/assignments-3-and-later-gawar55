@@ -1,0 +1,1 @@
+writer: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=14fc643b6be1ccf8109a14a3797e9a248b0c6885, for GNU/Linux 3.7.0, not strippedwriter: cannot open `writer' (No such file or directory)
